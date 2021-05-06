@@ -139,9 +139,9 @@
      inkscape:window-height="1015"
      id="namedview4"
      showgrid="true"
-     inkscape:zoom="0.859745"
-     inkscape:cx="875.75093"
-     inkscape:cy="445.36102"
+     inkscape:zoom="1.215863"
+     inkscape:cx="579.66495"
+     inkscape:cy="3070.6235"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -1097,6 +1097,33 @@
          x="636"
          y="1814.6666"
          id="tspan2694">stuff</tspan></text>
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.5;stroke-opacity:1"
+       id="rect2704"
+       width="96"
+       height="96"
+       x="240"
+       y="-1164" />
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.5;stroke-opacity:1"
+       id="rect2706"
+       width="192"
+       height="192"
+       x="192"
+       y="-1212" />
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.5;stroke-opacity:1"
+       id="rect2708"
+       width="96"
+       height="96"
+       x="192"
+       y="-924" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.5;stroke-opacity:1"
+       d="m 336,-924 h 96 v 144 h 96 v 96 H 336 v -240"
+       id="path2710"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccc" />
   </g>
   <g
      inkscape:groupmode="layer"
