@@ -140,8 +140,8 @@
      id="namedview4"
      showgrid="true"
      inkscape:zoom="1.3487407"
-     inkscape:cx="522.8809"
-     inkscape:cy="3157.6549"
+     inkscape:cx="541.78743"
+     inkscape:cy="2979.7111"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -1241,7 +1241,7 @@
     <rect
        style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.5;stroke-opacity:1"
        id="rect1056"
-       width="348"
+       width="336"
        height="288"
        x="192"
        y="-636" />
@@ -1368,6 +1368,12 @@
        cx="528.19012"
        cy="-924.11682"
        r="3" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.01600003;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.5;stroke-opacity:1"
+       d="m 576,-924 c -0.61991,-36.89036 20.46002,-46.50516 48,-48 h 48 c 32.38364,-0.0999 47.89435,16.38091 48,48 v 144 c -1.28728,28.06089 -11.73189,48.61497 -48,48 h -48 c -29.73463,-0.68419 -48.47159,-13.63214 -48,-48 z"
+       id="path1219"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccc" />
   </g>
   <g
      inkscape:groupmode="layer"
