@@ -139,13 +139,13 @@
      inkscape:window-height="1023"
      id="namedview4"
      showgrid="true"
-     inkscape:zoom="1.3487407"
-     inkscape:cx="625.41522"
-     inkscape:cy="240.08435"
+     inkscape:zoom="3.8148148"
+     inkscape:cx="108.15004"
+     inkscape:cy="2625.2466"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer6"
      units="in"
      inkscape:document-units="in"
      showguides="false"
@@ -1349,48 +1349,6 @@
        id="path1219"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccccc" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.33333397px;line-height:1.25;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
-       x="252"
-       y="-1128"
-       id="text1223"><tspan
-         sodipodi:role="line"
-         id="tspan1221"
-         x="252"
-         y="-1128">Tull</tspan><tspan
-         sodipodi:role="line"
-         x="252"
-         y="-1101.3334"
-         id="tspan1225">House</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.33333397px;line-height:1.25;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
-       x="216"
-       y="-744"
-       id="text1229"><tspan
-         sodipodi:role="line"
-         id="tspan1227"
-         x="216"
-         y="-744">Hide</tspan><tspan
-         sodipodi:role="line"
-         x="216"
-         y="-717.33331"
-         id="tspan1231">Out</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.33333397px;line-height:1.25;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
-       x="216"
-       y="-264"
-       id="text1235"><tspan
-         sodipodi:role="line"
-         id="tspan1233"
-         x="216"
-         y="-264">Tull's Apt</tspan><tspan
-         sodipodi:role="line"
-         x="216"
-         y="-237.33333"
-         id="tspan1237">Gateway</tspan></text>
     <rect
        style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.01600003;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.5;stroke-opacity:1"
        id="rect1239"
@@ -1585,6 +1543,153 @@
        d="m 1500,1896 h 228 l 384,-96 1296,-324 h 1152"
        id="path1373"
        inkscape:connector-curvature="0" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#ff7276;stroke-width:2.01600003;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:2.01600003, 4.03200005999999966;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 252,-1092 v 48 h -36 v 36 h 12 v 24 h 24 v 36 h -36 v 72 h 24 v 24 h 12 v 36 h -36 v 24 h 24 v 24 h 12 v -24 h 12 v -72 h -12 v -48 h -24 v -24 h 36 v -72 h -24 v -24 h 24 v -60 z"
+       id="path1177"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="sewers">
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.01600003;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:2.01600003, 4.03200005999999966;stroke-dashoffset:0;stroke-opacity:0.39215687"
+       d="M 4104,384 V 2736"
+       id="path1096"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.01600003;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:2.01600003, 4.03200005999999966;stroke-dashoffset:0;stroke-opacity:0.39215687"
+       d="M 4116,384.00006 V 2736"
+       id="path1096-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="opacity:1;fill:#747474;fill-opacity:1;stroke:#000000;stroke-width:2.01600003;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:2.01600003, 4.03200006;stroke-dashoffset:0;stroke-opacity:0.39215686"
+       d="m 4116,744 h 264"
+       id="path1113"
+       inkscape:connector-curvature="0" />
+    <path
+       style="opacity:1;fill:#747474;fill-opacity:1;stroke:#000000;stroke-width:2.01600003;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:2.01600003, 4.03200006;stroke-dashoffset:0;stroke-opacity:0.39215686"
+       d="m 4116,756 h 264"
+       id="path1115"
+       inkscape:connector-curvature="0" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.01600003;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:2.01600003, 4.03200005999999966;stroke-dashoffset:0;stroke-opacity:0.39215686"
+       d="m 4104,744 h -168 v 12 h 168"
+       id="path1117"
+       inkscape:connector-curvature="0" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.01600003;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:2.01600003, 4.03200006;stroke-dashoffset:0;stroke-opacity:0.39215686"
+       d="M 588,3324 V 264"
+       id="path1119"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.01600003;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:2.01600003, 4.03200006;stroke-dashoffset:0;stroke-opacity:0.39215686"
+       d="M 600,3324 V 264"
+       id="path1119-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.01600003;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:2.01600003, 4.03200006;stroke-dashoffset:0;stroke-opacity:0.39215686"
+       d="M 1164,3204 V 24"
+       id="path1136"
+       inkscape:connector-curvature="0" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.01600003;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:2.01600003, 4.03200006;stroke-dashoffset:0;stroke-opacity:0.39215686"
+       d="M 1176,24 V 3204"
+       id="path1138"
+       inkscape:connector-curvature="0" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.01600003;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:2.01600003, 4.03200006;stroke-dashoffset:0;stroke-opacity:0.39215686"
+       d="m 1164,192 h -156 v 12 h 156"
+       id="path1142"
+       inkscape:connector-curvature="0" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.01600003;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:2.01600003, 4.03200006;stroke-dashoffset:0;stroke-opacity:0.39215686"
+       d="m 1176,1236 h 48 v -12 h -48"
+       id="path1144"
+       inkscape:connector-curvature="0" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.01600003;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:2.01600003, 4.03200006;stroke-dashoffset:0;stroke-opacity:0.39215686"
+       d="m 588,1728 h -24 v 12 h 24"
+       id="path1146"
+       inkscape:connector-curvature="0" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.01600003;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:2.01600003, 4.03200006;stroke-dashoffset:0;stroke-opacity:0.39215686"
+       d="m 600,1752 h 48 v -12 h -48"
+       id="path1148"
+       inkscape:connector-curvature="0" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.01600003;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:2.01600003, 4.03200006;stroke-dashoffset:0;stroke-opacity:0.39215686"
+       d="M 588,1068 H 156"
+       id="path1150"
+       inkscape:connector-curvature="0" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.01600003;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:2.01600003, 4.03200006;stroke-dashoffset:0;stroke-opacity:0.39215686"
+       d="M 156,1080 H 588"
+       id="path1152"
+       inkscape:connector-curvature="0" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.01600003;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:2.01600003, 4.03200006;stroke-dashoffset:0;stroke-opacity:0.39215686"
+       d="m 372,1068 v -36 h -12 v 36"
+       id="path1154"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="secret tunnels">
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#ff7276;stroke-width:2.01600003;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:2.01600003, 4.03200005999999966;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 204,540 v 204 h -48 v 45.78345"
+       id="path1157"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#ff7276;stroke-width:2.01600003;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:2.01600003, 4.03200005999999966;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 216,540 v 204 h 36 v 12 h -36 v 132 h 24 v 12 h -24 v 36 h 24 v 12 h -24 v 24 h -12 v -24 h -48"
+       id="path1159"
+       inkscape:connector-curvature="0" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#ff7276;stroke-width:2.01600003;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:2.01600003, 4.03200005999999966;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 169.90186,756 H 204 v 24 h -36 v -24"
+       id="path1161"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#ff7276;stroke-width:2.01600003;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:2.01600003, 4.03200005999999966;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 156,792 h 48 v 12 h -48 z"
+       id="path1163"
+       inkscape:connector-curvature="0" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#ff7276;stroke-width:2.01600003;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:2.01600003, 4.03200005999999966;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 180,816 H 166.08085 156 v 36 h 48 v -36 h -12 v 0"
+       id="path1165"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccc" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#ff7276;stroke-width:2.01600003;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:2.01600003, 4.03200005999999966;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 204,852 v 12 h -36 v 24 12 h 36"
+       id="path1167"
+       inkscape:connector-curvature="0" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#ff7276;stroke-width:2.01600003;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:2.01600003, 4.03200005999999966;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 180,876 h 24 v 12 h -24 z"
+       id="path1169"
+       inkscape:connector-curvature="0" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#ff7276;stroke-width:2.01600003;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:2.01600003, 4.03200005999999966;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 204,900 v 36 h -48"
+       id="path1171"
+       inkscape:connector-curvature="0" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#ff7276;stroke-width:2.01600003;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:2.01600003, 4.03200005999999966;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 156,804 v 12"
+       id="path1175"
+       inkscape:connector-curvature="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -1712,7 +1817,7 @@
        inkscape:groupmode="layer"
        id="layer1"
        inkscape:label="building-names"
-       style="display:none">
+       style="display:inline">
       <text
          transform="translate(0,1260)"
          xml:space="preserve"
@@ -1751,6 +1856,57 @@
            x="3750.7283"
            y="-807.57611"
            id="tspan2059">Building</tspan></text>
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer4"
+       inkscape:label="special-building-names"
+       style="display:inline">
+      <text
+         transform="translate(0,1260)"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.33333397px;line-height:1.25;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="252"
+         y="-1128"
+         id="text1223"><tspan
+           sodipodi:role="line"
+           id="tspan1221"
+           x="252"
+           y="-1128">Tull</tspan><tspan
+           sodipodi:role="line"
+           x="252"
+           y="-1101.3334"
+           id="tspan1225">House</tspan></text>
+      <text
+         transform="translate(0,1260)"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.33333397px;line-height:1.25;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="216"
+         y="-744"
+         id="text1229"><tspan
+           sodipodi:role="line"
+           id="tspan1227"
+           x="216"
+           y="-744">Hide</tspan><tspan
+           sodipodi:role="line"
+           x="216"
+           y="-717.33331"
+           id="tspan1231">Out</tspan></text>
+      <text
+         transform="translate(0,1260)"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.33333397px;line-height:1.25;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="216"
+         y="-264"
+         id="text1235"><tspan
+           sodipodi:role="line"
+           id="tspan1233"
+           x="216"
+           y="-264">Tull's Apt</tspan><tspan
+           sodipodi:role="line"
+           x="216"
+           y="-237.33333"
+           id="tspan1237">Gateway</tspan></text>
     </g>
     <path
        style="opacity:1;fill:none;fill-opacity:0.78039216;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
