@@ -27,7 +27,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -42,24 +42,25 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1015"
+     inkscape:window-width="1682"
+     inkscape:window-height="1020"
      id="namedview4"
      showgrid="false"
      units="in"
      inkscape:document-units="in"
-     inkscape:zoom="0.57843137"
-     inkscape:cx="912.46869"
-     inkscape:cy="409.50779"
-     inkscape:window-x="0"
+     inkscape:zoom="1.636051"
+     inkscape:cx="1240.4581"
+     inkscape:cy="729.25904"
+     inkscape:window-x="181"
      inkscape:window-y="0"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="layer8" />
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer9"
+     inkscape:snap-global="false" />
   <g
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="base"
-     style="display:none"
+     style="display:inline"
      sodipodi:insensitive="true">
     <path
        style="fill:#000000;stroke-width:0.47999999"
@@ -90,6 +91,22 @@
        id="path864"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccscccccccscccccscccc" />
+    <g
+       id="g1101-22"
+       transform="translate(-326.99072,143.0118)">
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path1082-2"
+         d="m 1105.7112,437.43736 c 13.5111,17.9821 11.8389,40.63918 -1.2224,56.23297"
+         style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path1082-4-0"
+         d="m 1133.7954,437.40631 c -13.5111,17.9821 -11.8389,40.63918 1.2224,56.23297"
+         style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -114,5 +131,366 @@
        id="path880"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccccc" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect1145-2"
+       width="33.006306"
+       height="31.783852"
+       x="15.646199"
+       y="213.38045"
+       transform="rotate(-22.125222)" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect1145-9"
+       width="33.006306"
+       height="31.783852"
+       x="1223.076"
+       y="-770.11279"
+       transform="rotate(37.743943)" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="Gates">
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect1145"
+       width="33.006306"
+       height="31.783852"
+       x="893.61517"
+       y="134.26833" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Bridges">
+    <g
+       id="g1101"
+       transform="rotate(-11.016532,915.90667,1053.6458)">
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path1082"
+         d="m 1105.7112,437.43736 c 13.5111,17.9821 11.8389,40.63918 -1.2224,56.23297"
+         style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path1082-4"
+         d="m 1133.7954,437.40631 c -13.5111,17.9821 -11.8389,40.63918 1.2224,56.23297"
+         style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <g
+       id="g1101-2"
+       transform="matrix(0.87719594,0.89470942,-0.95727673,0.81986268,642.59889,-649.45166)">
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path1082-9"
+         d="m 1105.7112,437.43736 c 13.5111,17.9821 11.8389,40.63918 -1.2224,56.23297"
+         style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path1082-4-6"
+         d="m 1133.7954,437.40631 c -13.5111,17.9821 -11.8389,40.63918 1.2224,56.23297"
+         style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <g
+       id="g1101-1"
+       transform="matrix(0.63144983,0.88941189,-1.1778831,0.47680371,450.50793,-428.10132)">
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path1082-0"
+         d="m 1105.7112,437.43736 c 13.5111,17.9821 11.8389,40.63918 -1.2224,56.23297"
+         style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path1082-4-4"
+         d="m 1133.7954,437.40631 c -13.5111,17.9821 -11.8389,40.63918 1.2224,56.23297"
+         style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="Locations">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:'Liberation Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;-inkscape-font-specification:'Liberation Sans';font-stretch:normal;font-variant:normal;"
+       x="569.97003"
+       y="516.89703"
+       id="text827"><tspan
+         sodipodi:role="line"
+         id="tspan825"
+         x="569.97003"
+         y="516.89703"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif'">Silvery Eel</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="605.72681"
+       y="535.38666"
+       id="text834"><tspan
+         sodipodi:role="line"
+         id="tspan832"
+         x="605.72681"
+         y="535.38666">X</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="416.78412"
+       y="820.50189"
+       id="text840"
+       transform="rotate(-29.237362)"><tspan
+         sodipodi:role="line"
+         id="tspan838"
+         x="416.78412"
+         y="820.50189"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif'">Temples</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="650.85944"
+       y="868.34442"
+       id="text840-1"
+       transform="rotate(-21.645992)"><tspan
+         sodipodi:role="line"
+         id="tspan838-0"
+         x="650.85944"
+         y="868.34442"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif'">Inns</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="1207.5696"
+       y="-430.61612"
+       id="text840-1-0"
+       transform="rotate(46.658112)"><tspan
+         sodipodi:role="line"
+         id="tspan838-0-3"
+         x="1207.5696"
+         y="-430.61612"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif'">Taverns</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="911.01208"
+       y="699.5658"
+       id="text840-19"
+       transform="rotate(-1.0474928)"><tspan
+         sodipodi:role="line"
+         x="911.01208"
+         y="699.5658"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif'"
+         id="tspan1024">Central Market</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="375.19656"
+       y="1113.9622"
+       id="text840-9"
+       transform="rotate(-29.237362)"><tspan
+         sodipodi:role="line"
+         x="375.19656"
+         y="1113.9622"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif'"
+         id="tspan1018">The Arena</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="254.17711"
+       y="992.28735"
+       id="text840-3"
+       transform="rotate(-29.237362)"><tspan
+         sodipodi:role="line"
+         id="tspan838-8"
+         x="254.17711"
+         y="992.28735"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif'">Shipyards South</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="1159.5273"
+       y="500.15231"
+       id="text840-0"
+       transform="rotate(-2.138297)"><tspan
+         sodipodi:role="line"
+         id="tspan838-5"
+         x="1159.5273"
+         y="500.15231"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif'">Residential</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="1296.2313"
+       y="488.22601"
+       id="text840-6"
+       transform="rotate(2.1769701)"><tspan
+         sodipodi:role="line"
+         id="tspan838-64"
+         x="1296.2313"
+         y="488.22601"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif'">Temples</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="1353.3092"
+       y="641.758"
+       id="text840-00"
+       transform="rotate(1.2502442)"><tspan
+         sodipodi:role="line"
+         id="tspan838-4"
+         x="1353.3092"
+         y="641.758"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif'">Warehouses</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="1303.66"
+       y="882.29224"
+       id="text840-62"
+       transform="rotate(-2.8800748)"><tspan
+         sodipodi:role="line"
+         id="tspan838-67"
+         x="1303.66"
+         y="882.29224"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif'">East Factories</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="324.06223"
+       y="1212.825"
+       id="text840-5"
+       transform="rotate(-29.237362)"><tspan
+         sodipodi:role="line"
+         x="324.06223"
+         y="1212.825"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif'"
+         id="tspan1016">South Factories</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="869.23932"
+       y="126.46838"
+       id="text840-8"
+       transform="rotate(-1.9183196)"><tspan
+         sodipodi:role="line"
+         id="tspan838-7"
+         x="869.23932"
+         y="126.46838"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif'">To Swampgate</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="1092.6716"
+       y="98.403152"
+       id="text840-2"
+       transform="rotate(0.88909825)"><tspan
+         sodipodi:role="line"
+         id="tspan838-82"
+         x="1092.6716"
+         y="98.403152"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif'">Tents and Shanties</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="406.78406"
+       y="109.8853"
+       id="text840-99"
+       transform="rotate(-0.51688027)"><tspan
+         sodipodi:role="line"
+         id="tspan838-60"
+         x="406.78406"
+         y="109.8853"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif'">Tents and Shanties</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="-123.75862"
+       y="582.51123"
+       id="text840-27"
+       transform="rotate(-29.237362)"><tspan
+         sodipodi:role="line"
+         id="tspan838-61"
+         x="-123.75862"
+         y="582.51123"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif'">The Sinking City</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="27.488697"
+       y="812.86664"
+       id="text840-32"
+       transform="rotate(-29.237362)"><tspan
+         sodipodi:role="line"
+         id="tspan838-1"
+         x="27.488697"
+         y="812.86664"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif'">West Shipyards</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="29.86747"
+       y="867.43341"
+       id="text840-59"
+       transform="rotate(-29.237362)"><tspan
+         sodipodi:role="line"
+         id="tspan838-9"
+         x="29.86747"
+         y="867.43341"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif'">Inns</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="-219.43916"
+       y="763.06091"
+       id="text840-14"
+       transform="rotate(-54.197182)"
+       inkscape:transform-center-x="2.4449116"
+       inkscape:transform-center-y="-4.2785953"><tspan
+         sodipodi:role="line"
+         id="tspan838-91"
+         x="-219.43916"
+         y="763.06091"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif'">Taverns</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="-117.96909"
+       y="945.09009"
+       id="text840-07"
+       transform="rotate(-29.237362)"><tspan
+         sodipodi:role="line"
+         id="tspan838-58"
+         x="-117.96909"
+         y="945.09009"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif'">West Factories</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="1318.4717"
+       y="190.46758"
+       id="text840-2-7"
+       transform="rotate(0.88909825)"><tspan
+         sodipodi:role="line"
+         id="tspan838-82-0"
+         x="1318.4717"
+         y="190.46758"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif'">Old Graveyards</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="1263.1727"
+       y="46.169724"
+       id="text840-2-4"
+       transform="rotate(0.88909825)"><tspan
+         sodipodi:role="line"
+         id="tspan838-82-8"
+         x="1263.1727"
+         y="46.169724"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif'">Lug Wasteland</tspan></text>
   </g>
 </svg>
