@@ -27,12 +27,43 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <defs
-     id="defs6" />
+     id="defs6">
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect2077"
+       is_visible="true"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect2073"
+       is_visible="true"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect2069"
+       is_visible="true"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+  </defs>
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -45,17 +76,25 @@
      inkscape:window-width="1682"
      inkscape:window-height="1020"
      id="namedview4"
-     showgrid="false"
+     showgrid="true"
      units="in"
      inkscape:document-units="in"
-     inkscape:zoom="1.636051"
-     inkscape:cx="849.27225"
-     inkscape:cy="729.25904"
-     inkscape:window-x="181"
-     inkscape:window-y="0"
+     inkscape:zoom="0.8180255"
+     inkscape:cx="906.13364"
+     inkscape:cy="486.70529"
+     inkscape:window-x="1954"
+     inkscape:window-y="20"
      inkscape:window-maximized="0"
-     inkscape:current-layer="layer9"
-     inkscape:snap-global="false" />
+     inkscape:current-layer="layer10"
+     inkscape:snap-global="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid1687"
+       units="in"
+       spacingx="24"
+       spacingy="24"
+       empspacing="4" />
+  </sodipodi:namedview>
   <g
      inkscape:groupmode="layer"
      id="layer3"
@@ -87,7 +126,7 @@
      style="display:inline">
     <path
        style="display:inline;opacity:1;fill:none;fill-opacity:0.78039216;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 663,828.66102 c 35.82836,30.83984 75.85863,56.41066 106.17581,93.30373 34.5114,33.79967 59.35415,78.94065 104.52334,99.89115 10.27385,5.4709 22.53611,-3.0573 30.97625,-9.1078 10.01945,-7.1827 16.63959,-21.54292 27.91137,-32.12272 21.94137,-21.65468 28.6103,-65.24649 57.5912,-71.35843 46.64483,-7.10663 98.00523,-8.95944 140.98373,-29.55623 27.9167,-12.82843 36.2272,-37.50453 41.8912,-58.75651 6.493,-24.89564 10.3184,-53.22992 -1.24,-76.46342 -16.584,-12.65941 -40.0557,-8.95724 -46.6019,-35.14494 -11.8624,-23.60552 17.6228,-59.2975 -9.5756,-77.59786 -11.2646,-2.87683 -8.2167,-18.43014 -20.2856,-20.02717 -27.2792,-3.60973 -70.2579,8.8293 -92.9723,7.40611 -25.83343,-3.15579 -52.30994,10.37361 -76.59784,-1.38117 -25.01834,-10.93486 -47.05927,16.01048 -71.91341,3.27214 -20.69651,-10.79922 -42.71477,-1.00929 -62.78172,-5.64485 -21.98205,-4.33615 -39.40221,4.70445 -58.16261,10.5656 -19.86748,7.93614 -16.56405,30.74481 -32.02413,38.51164 -11.50228,5.77852 -42.39625,-4.47833 -52.99707,5.66647 -15.99841,16.39701 -5.5887,65.74972 -27.68365,54.16714 -24.78184,-10.88243 -20.86888,30.79682 -15.07656,49.16808 9.67436,22.70404 38.52299,39.81324 57.85949,55.20904 z"
+       d="m 663,828.66102 c 35.82836,30.83984 75.85863,56.41066 106.17581,93.30373 34.5114,33.79967 59.35415,78.94065 104.52334,99.89115 10.27385,5.4709 22.53611,-3.0573 30.97625,-9.1078 10.01945,-7.1827 16.63959,-21.54292 27.91137,-32.12272 21.94137,-21.65468 28.6103,-65.24649 57.5912,-71.35843 46.64483,-7.10663 94.11543,2.27785 137.09393,-18.31894 19.7048,-10.66742 30.1763,-47.01301 35.8403,-68.26499 6.493,-24.89564 20.2591,-54.95873 8.7007,-78.19223 -16.584,-12.65941 -40.0557,-8.95724 -46.6019,-35.14494 -11.8624,-23.60552 17.6228,-59.2975 -9.5756,-77.59786 -11.2646,-2.87683 -8.2167,-18.43014 -20.2856,-20.02717 -27.2792,-3.60973 -70.2579,8.8293 -92.9723,7.40611 -25.83343,-3.15579 -52.30994,10.37361 -76.59784,-1.38117 -25.01834,-10.93486 -47.05927,16.01048 -71.91341,3.27214 -20.69651,-10.79922 -42.71477,-1.00929 -62.78172,-5.64485 -21.98205,-4.33615 -39.40221,4.70445 -58.16261,10.5656 -19.86748,7.93614 -16.56405,30.74481 -32.02413,38.51164 -11.50228,5.77852 -42.39625,-4.47833 -52.99707,5.66647 -15.99841,16.39701 -5.5887,65.74972 -27.68365,54.16714 -24.78184,-10.88243 -20.86888,30.79682 -15.07656,49.16808 9.67436,22.70404 38.52299,39.81324 57.85949,55.20904 z"
        id="path864"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccscccccccscccccscccc" />
@@ -115,7 +154,7 @@
      style="display:inline">
     <path
        style="display:inline;opacity:1;fill:none;fill-opacity:0.78039216;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 18.619375,138.84156 c 23.429554,45.12373 56.639028,86.37685 63.16783,138.1894 10.072526,42.53214 34.869275,86.4905 28.004585,130.7798 -3.05474,48.80272 16.96816,114.67201 -17.289565,145.05207 -18.820638,15.20366 -43.87844,41.70698 -25.700253,60.76767 24.31521,31.49034 71.687678,38.14531 102.983598,62.36123 24.84596,19.22512 33.23167,56.41104 56.93148,76.83055 17.63411,15.85642 12.36969,45.726 20.32907,67.50304 10.47261,39.93946 8.97017,84.59993 36.67221,117.7469 14.59622,19.93738 16.05621,76.49838 39.04136,58.94811 19.55872,-21.67136 48.88666,10.68297 68.49819,5.31397 36.19786,-16.54612 59.91983,-61.86563 89.1327,-92.81858 23.12839,-23.86302 66.90396,-32.06654 92.59826,-57.18156 13.02566,-12.34246 44.3255,-36.08225 27.50995,-52.09655 -3.19764,-3.57663 -5.0952,-11.15407 -10.3394,-16.06349 -9.13046,-8.54758 -21.38211,-15.59209 -17.86714,-26.63613 6.38428,-20.05938 -7.20111,-18.13376 -7.84321,-26.2504 -1.48733,-18.80115 -24.15891,-20.47887 -25.94644,-29.841 -2.09937,-10.99535 -22.75331,-8.41526 -29.36991,-16.92347 -5.39812,-6.94139 -5.6363,-13.59061 -4.60343,-21.8728 3.02513,-11.92916 33.93261,-13.07148 38.38194,-24.99617 7.89195,-21.15122 -11.3392,-53.03603 -16.80251,-73.81557 -6.48803,-33.47288 -30.46568,-26.29248 -47.54823,-36.91002 -21.08924,-19.47688 26.26947,-58.50289 -0.008,-55.6134 -24.02684,5.86954 -48.13796,14.06382 -71.48586,1.20427 -28.02867,-7.67251 -58.29219,-21.66903 -81.89257,-29.11788 -6.46762,-2.93617 -103.34242,24.50481 -108.04756,15.62323 -21.12701,-15.5803 -42.6478,-11.80942 -34.25877,17.93467 16.80292,20.24604 -13.53465,47.83395 -22.05954,17.77705 -4.00433,-10.23472 12.15277,-37.10969 -13.44869,-27.37928 -12.33661,4.68881 -9.31774,-21.94229 -2.52567,-31.8893 10.90037,-17.83177 27.2282,-41.10469 50.497,-28.19472 6.76863,3.73046 -1.49213,9.60841 -1.56912,13.31739 -0.32199,15.51145 17.10616,23.936 33.83157,24.94741 32.46969,6.276 62.07827,-8.66369 92.27102,-18.15089 22.64514,-0.98557 33.94037,25.04598 55.22952,22.97444 -8.90023,-17.98568 -3.04126,-40.46668 -9.72766,-59.88783 -5.15363,-29.67367 -54.98641,-25.49805 -51.9864,-57.20103 4.79406,-14.48372 10.98307,-34.71389 4.45172,-48.63286 -3.57236,-7.61307 16.39821,-2.99519 10.03094,-14.20263 4.37743,-16.07225 16.5181,-25.81563 28.51686,-27.79667 7.86015,-1.29774 15.31048,5.79507 21.69484,-1.02712 14.97264,-14.51411 45.91522,0.46839 31.5797,21.30814 -6.69034,8.08992 -19.19951,18.07176 -25.78493,13.21313 -6.88641,-5.0807 -22.14809,-5.52251 -23.63148,4.54249 -1.24941,8.47744 -11.33137,10.48495 -15.5632,15.78432 -18.68237,10.78098 -35.24552,46.4669 -7.55957,55.88053 21.26988,12.74483 46.40345,30.17285 41.17623,58.47298 -0.28108,36.36713 37.38091,72.9201 73.18227,53.88544 12.58823,-8.89518 72.71096,-9.81692 51.32927,13.64104 -17.61745,16.03131 -15.49338,48.2848 9.47152,47.74913 23.8126,1.56845 23.24696,19.18637 25.66411,42.91629 8.35871,31.79192 32.5162,-14.35249 41.17568,-26.95096 8.80445,-10.79955 31.40492,4.45689 42.60299,-0.80788 20.52588,-9.65023 31.63532,-32.30539 48.22463,-20.61081 3.9583,2.79039 8.18073,7.67037 12.64292,2.73495 50.14878,-26.41961 87.15278,-76.36025 145.40605,-87.53115 37.09668,-6.84254 75.89129,3.75236 113.74809,2.51178 39.98963,2.48574 80.03793,-5.15174 113.48873,-28.1395 55.4003,-32.05451 117.1914,-60.24231 182.7923,-52.56537 36.052,1.17532 78.9012,16.15541 109.8317,-7.82942 27.3431,-29.55244 52.1997,-72.55403 97.7988,-71.3399 38.8601,-7.0544 52.5267,-50.06643 74.7734,-77.87977 23.8599,-34.19364 43.8714,-71.9388 77.704,-97.67506"
+       d="m 18.619375,138.84156 c 23.429554,45.12373 56.639028,86.37685 63.16783,138.1894 10.072526,42.53214 34.869275,86.4905 28.004585,130.7798 -3.05474,48.80272 67.10375,114.23981 20.74433,148.07749 -17.95623,7.85621 -63.327589,50.78325 -31.751097,70.70835 24.315207,31.49034 39.704627,25.17921 71.000547,49.39513 24.84596,19.22512 33.23167,56.41104 56.93148,76.83055 17.63411,15.85642 12.36969,45.726 20.32907,67.50304 10.47261,39.93946 8.97017,84.59993 36.67221,117.7469 14.59622,19.93738 16.05621,76.49838 39.04136,58.94811 19.55872,-21.67136 48.88666,10.68297 68.49819,5.31397 36.19786,-16.54612 59.91983,-61.86563 89.1327,-92.81858 23.12839,-23.86302 66.90396,-32.06654 92.59826,-57.18156 13.02566,-12.34246 44.3255,-36.08225 27.50995,-52.09655 -3.19764,-3.57663 -5.0952,-11.15407 -10.3394,-16.06349 -9.13046,-8.54758 -21.38211,-15.59209 -17.86714,-26.63613 6.38428,-20.05938 -7.20111,-18.13376 -7.84321,-26.2504 -1.48733,-18.80115 -24.15891,-20.47887 -25.94644,-29.841 -2.09937,-10.99535 -22.75331,-8.41526 -29.36991,-16.92347 -5.39812,-6.94139 -5.6363,-13.59061 -4.60343,-21.8728 3.02513,-11.92916 33.93261,-13.07148 38.38194,-24.99617 7.89195,-21.15122 -11.3392,-53.03603 -16.80251,-73.81557 -6.48803,-33.47288 -30.46568,-26.29248 -47.54823,-36.91002 -21.08924,-19.47688 26.26947,-58.50289 -0.008,-55.6134 -24.02684,5.86954 -48.13796,14.06382 -71.48586,1.20427 -28.02867,-7.67251 -58.29219,-21.66903 -81.89257,-29.11788 -6.46762,-2.93617 -103.34242,24.50481 -108.04756,15.62323 -21.12701,-15.5803 -42.6478,-11.80942 -34.25877,17.93467 16.80292,20.24604 -13.53465,47.83395 -22.05954,17.77705 -4.00433,-10.23472 12.15277,-37.10969 -13.44869,-27.37928 -12.33661,4.68881 -9.31774,-21.94229 -2.52567,-31.8893 10.90037,-17.83177 27.2282,-41.10469 50.497,-28.19472 6.76863,3.73046 -1.49213,9.60841 -1.56912,13.31739 -0.32199,15.51145 17.10616,23.936 33.83157,24.94741 32.46969,6.276 62.07827,-8.66369 92.27102,-18.15089 22.64514,-0.98557 33.94037,25.04598 55.22952,22.97444 -8.90023,-17.98568 -3.04126,-40.46668 -9.72766,-59.88783 -5.15363,-29.67367 -54.98641,-25.49805 -51.9864,-57.20103 4.79406,-14.48372 10.98307,-34.71389 4.45172,-48.63286 -3.57236,-7.61307 16.39821,-2.99519 10.03094,-14.20263 4.37743,-16.07225 16.5181,-25.81563 28.51686,-27.79667 7.86015,-1.29774 15.31048,5.79507 21.69484,-1.02712 14.97264,-14.51411 45.91522,0.46839 31.5797,21.30814 -6.69034,8.08992 -19.19951,18.07176 -25.78493,13.21313 -6.88641,-5.0807 -22.14809,-5.52251 -23.63148,4.54249 -1.24941,8.47744 -11.33137,10.48495 -15.5632,15.78432 -18.68237,10.78098 -35.24552,46.4669 -7.55957,55.88053 21.26988,12.74483 46.40345,30.17285 41.17623,58.47298 -0.28108,36.36713 37.38091,72.9201 73.18227,53.88544 12.58823,-8.89518 72.71096,-9.81692 51.32927,13.64104 -17.61745,16.03131 -15.49338,48.2848 9.47152,47.74913 23.8126,1.56845 23.24696,19.18637 25.66411,42.91629 8.35871,31.79192 32.5162,-14.35249 41.17568,-26.95096 8.80445,-10.79955 31.40492,4.45689 42.60299,-0.80788 20.52588,-9.65023 31.63532,-32.30539 48.22463,-20.61081 3.9583,2.79039 8.18073,7.67037 12.64292,2.73495 50.14878,-26.41961 87.15278,-76.36025 145.40605,-87.53115 37.09668,-6.84254 75.89129,3.75236 113.74809,2.51178 39.98963,2.48574 80.03793,-5.15174 113.48873,-28.1395 55.4003,-32.05451 117.1914,-60.24231 182.7923,-52.56537 36.052,1.17532 78.9012,16.15541 109.8317,-7.82942 27.3431,-29.55244 52.1997,-72.55403 97.7988,-71.3399 38.8601,-7.0544 52.5267,-50.06643 74.7734,-77.87977 23.8599,-34.19364 43.8714,-71.9388 77.704,-97.67506"
        id="path856"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccccsccccccccssssscsccccccccsccscccccscsccssccccccccssccccccccc" />
@@ -216,10 +255,11 @@
   <g
      inkscape:groupmode="layer"
      id="layer1"
-     inkscape:label="Locations">
+     inkscape:label="Locations"
+     style="display:inline">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:'Liberation Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;-inkscape-font-specification:'Liberation Sans';font-stretch:normal;font-variant:normal;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        x="569.97003"
        y="516.89703"
        id="text827"><tspan
@@ -241,14 +281,14 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       x="416.78412"
-       y="820.50189"
+       x="528.54169"
+       y="896.92523"
        id="text840"
        transform="rotate(-29.237362)"><tspan
          sodipodi:role="line"
          id="tspan838"
-         x="416.78412"
-         y="820.50189"
+         x="528.54169"
+         y="896.92523"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif'">Temples</tspan></text>
     <text
        xml:space="preserve"
@@ -289,38 +329,38 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       x="375.19656"
-       y="1113.9622"
+       x="361.02197"
+       y="1135.7463"
        id="text840-9"
        transform="rotate(-29.237362)"><tspan
          sodipodi:role="line"
-         x="375.19656"
-         y="1113.9622"
+         x="361.02197"
+         y="1135.7463"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif'"
          id="tspan1018">The Arena</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       x="254.17711"
-       y="992.28735"
+       x="239.86913"
+       y="950.59802"
        id="text840-3"
        transform="rotate(-29.237362)"><tspan
          sodipodi:role="line"
          id="tspan838-8"
-         x="254.17711"
-         y="992.28735"
+         x="239.86913"
+         y="950.59802"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif'">Shipyards South</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       x="1159.5273"
-       y="500.15231"
+       x="1330.2522"
+       y="468.46637"
        id="text840-0"
        transform="rotate(-2.138297)"><tspan
          sodipodi:role="line"
          id="tspan838-5"
-         x="1159.5273"
-         y="500.15231"
+         x="1330.2522"
+         y="468.46637"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif'">Residential</tspan></text>
     <text
        xml:space="preserve"
@@ -361,13 +401,13 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       x="324.06223"
-       y="1212.825"
+       x="312.11713"
+       y="1220.0073"
        id="text840-5"
        transform="rotate(-29.237362)"><tspan
          sodipodi:role="line"
-         x="324.06223"
-         y="1212.825"
+         x="312.11713"
+         y="1220.0073"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif'"
          id="tspan1016">South Factories</tspan></text>
     <text
@@ -409,14 +449,14 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       x="-123.75862"
-       y="582.51123"
+       x="-15.958995"
+       y="478.41006"
        id="text840-27"
        transform="rotate(-29.237362)"><tspan
          sodipodi:role="line"
          id="tspan838-61"
-         x="-123.75862"
-         y="582.51123"
+         x="-15.958995"
+         y="478.41006"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif'">The Sinking City</tspan></text>
     <text
        xml:space="preserve"
@@ -433,14 +473,14 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       x="29.86747"
-       y="867.43341"
+       x="67.097771"
+       y="882.32898"
        id="text840-59"
        transform="rotate(-29.237362)"><tspan
          sodipodi:role="line"
          id="tspan838-9"
-         x="29.86747"
-         y="867.43341"
+         x="67.097771"
+         y="882.32898"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif'">Inns</tspan></text>
     <text
        xml:space="preserve"
@@ -459,26 +499,26 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       x="-117.96909"
-       y="945.09009"
+       x="-113.62362"
+       y="951.48486"
        id="text840-07"
        transform="rotate(-29.237362)"><tspan
          sodipodi:role="line"
          id="tspan838-58"
-         x="-117.96909"
-         y="945.09009"
+         x="-113.62362"
+         y="951.48486"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif'">West Factories</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       x="1318.4717"
-       y="190.46758"
+       x="1115.5995"
+       y="487.54962"
        id="text840-2-7"
        transform="rotate(0.88909825)"><tspan
          sodipodi:role="line"
          id="tspan838-82-0"
-         x="1318.4717"
-         y="190.46758"
+         x="1115.5995"
+         y="487.54962"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif'">Old Graveyards</tspan></text>
     <text
        xml:space="preserve"
@@ -492,5 +532,196 @@
          x="1263.1727"
          y="46.169724"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif'">Lug Wasteland</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="599.10559"
+       y="439.88419"
+       id="text834-6"><tspan
+         sodipodi:role="line"
+         id="tspan832-0"
+         x="599.10559"
+         y="439.88419">X</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="546.96686"
+       y="422.31354"
+       id="text827-6"><tspan
+         sodipodi:role="line"
+         id="tspan825-2"
+         x="546.96686"
+         y="422.31354"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif'">Stakeout location</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer10"
+     inkscape:label="Spires"
+     style="display:inline">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       x="315.48721"
+       y="747.59729"
+       id="text827-6-6"><tspan
+         sodipodi:role="line"
+         id="tspan825-2-1"
+         x="315.48721"
+         y="747.59729"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif'">SPIRES</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       x="870.01538"
+       y="747.44592"
+       id="text827-6-6-8"><tspan
+         sodipodi:role="line"
+         id="tspan825-2-1-7"
+         x="870.01538"
+         y="747.44592"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif'">SPIRES</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       x="1444.8264"
+       y="747.82971"
+       id="text827-6-6-0"><tspan
+         sodipodi:role="line"
+         id="tspan825-2-1-23"
+         x="1444.8264"
+         y="747.82971"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif'">SPIRES</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       x="1323.9064"
+       y="194.75476"
+       id="text827-6-6-0-3"><tspan
+         sodipodi:role="line"
+         id="tspan825-2-1-23-1"
+         x="1323.9064"
+         y="194.75476"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif'">SPIRES</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       x="770.02374"
+       y="269.50381"
+       id="text827-6-6-6"><tspan
+         sodipodi:role="line"
+         id="tspan825-2-1-1"
+         x="770.02374"
+         y="269.50381"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif'">SPIRES</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       x="232.20901"
+       y="281.41684"
+       id="text827-6-6-92"><tspan
+         sodipodi:role="line"
+         id="tspan825-2-1-28"
+         x="232.20901"
+         y="281.41684"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif'">SPIRES</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer11"
+     inkscape:label="Wards">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.33333397px;line-height:1.25;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       x="746.84747"
+       y="810.50848"
+       id="text2052"><tspan
+         sodipodi:role="line"
+         id="tspan2050"
+         x="746.84747"
+         y="810.50848">Ward 1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.33333397px;line-height:1.25;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       x="347.49152"
+       y="794.94916"
+       id="text2056"><tspan
+         sodipodi:role="line"
+         id="tspan2054"
+         x="347.49152"
+         y="794.94916">Ward2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.33333397px;line-height:1.25;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       x="1251.661"
+       y="717.15253"
+       id="text2060"><tspan
+         sodipodi:role="line"
+         id="tspan2058"
+         x="1251.661"
+         y="717.15253">Ward 3</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.33333397px;line-height:1.25;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       x="1002.7119"
+       y="518.33899"
+       id="text2064"><tspan
+         sodipodi:role="line"
+         id="tspan2062"
+         x="1002.7119"
+         y="518.33899">Ward 4</tspan></text>
+    <g
+       inkscape:groupmode="layer"
+       id="layer12"
+       inkscape:label="Ward Boundaries"
+       style="display:inline">
+      <path
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 1440,456 c -144.0769,13.9286 -237.334,122.62593 -260.4401,240"
+         id="path2080"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 504.81355,153.12713 -0.4322,310.75423"
+         id="path2085"
+         inkscape:connector-curvature="0" />
+      <path
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="M 1055.3405,408.31008 C 1041.7022,400.83961 1032,398.5731 1032,384 c 0,-24 48,-24 48,-48 0,-24 -48,-24 -48,-48 0,-24 48,-24 48,-48 0,-24 -48,-24 -48,-48 0,-24 24,-24 24.2018,-47.95201"
+         id="path2087"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccccc" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.33333397px;line-height:1.25;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       x="1216.8813"
+       y="261.55933"
+       id="text2056-0"><tspan
+         sodipodi:role="line"
+         id="tspan2054-6"
+         x="1216.8813"
+         y="261.55933">Ward4</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.33333397px;line-height:1.25;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       x="646.59076"
+       y="338.94916"
+       id="text2056-1"><tspan
+         sodipodi:role="line"
+         id="tspan2054-5"
+         x="646.59076"
+         y="338.94916">Ward5</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.33333397px;line-height:1.25;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       x="165.55931"
+       y="319.93222"
+       id="text2056-9"><tspan
+         sodipodi:role="line"
+         id="tspan2054-4"
+         x="165.55931"
+         y="319.93222">Ward6</tspan></text>
   </g>
 </svg>
