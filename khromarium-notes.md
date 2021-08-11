@@ -1,3 +1,7 @@
+1 inch is 1 mile on the city map
+
+
+
 Mansion next to Garros
 
 class: bard
