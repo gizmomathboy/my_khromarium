@@ -35,6 +35,26 @@
      id="defs6">
     <inkscape:path-effect
        effect="bspline"
+       id="path-effect2326"
+       is_visible="true"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect2320"
+       is_visible="true"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
        id="path-effect2077"
        is_visible="true"
        weight="33.333333"
@@ -79,13 +99,13 @@
      showgrid="true"
      units="in"
      inkscape:document-units="in"
-     inkscape:zoom="0.8180255"
-     inkscape:cx="906.13364"
-     inkscape:cy="486.70529"
-     inkscape:window-x="1954"
-     inkscape:window-y="20"
+     inkscape:zoom="1.636051"
+     inkscape:cx="709.92949"
+     inkscape:cy="975.6876"
+     inkscape:window-x="1957"
+     inkscape:window-y="92"
      inkscape:window-maximized="0"
-     inkscape:current-layer="layer10"
+     inkscape:current-layer="layer14"
      inkscape:snap-global="false">
     <inkscape:grid
        type="xygrid"
@@ -260,13 +280,13 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       x="569.97003"
-       y="516.89703"
+       x="601.44824"
+       y="559.37732"
        id="text827"><tspan
          sodipodi:role="line"
          id="tspan825"
-         x="569.97003"
-         y="516.89703"
+         x="601.44824"
+         y="559.37732"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif'">Silvery Eel</tspan></text>
     <text
        xml:space="preserve"
@@ -281,14 +301,14 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       x="528.54169"
-       y="896.92523"
+       x="829.76123"
+       y="505.25421"
        id="text840"
-       transform="rotate(-29.237362)"><tspan
+       transform="rotate(-1.6484321)"><tspan
          sodipodi:role="line"
          id="tspan838"
-         x="528.54169"
-         y="896.92523"
+         x="829.76123"
+         y="505.25421"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif'">Temples</tspan></text>
     <text
        xml:space="preserve"
@@ -535,24 +555,129 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       x="599.10559"
-       y="439.88419"
+       x="524.53583"
+       y="364.70316"
        id="text834-6"><tspan
          sodipodi:role="line"
          id="tspan832-0"
-         x="599.10559"
-         y="439.88419">X</tspan></text>
+         x="524.53583"
+         y="364.70316">X</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       x="546.96686"
-       y="422.31354"
+       x="510.29324"
+       y="349.27179"
        id="text827-6"><tspan
          sodipodi:role="line"
          id="tspan825-2"
-         x="546.96686"
-         y="422.31354"
+         x="510.29324"
+         y="349.27179"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif'">Stakeout location</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       x="628.44452"
+       y="515.37079"
+       id="text834-9"><tspan
+         sodipodi:role="line"
+         id="tspan832-09"
+         x="628.44452"
+         y="515.37079">X</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       x="623.98157"
+       y="500.55072"
+       id="text827-1"><tspan
+         sodipodi:role="line"
+         id="tspan825-7"
+         x="623.98157"
+         y="500.55072"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif'">Garros Manor</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       x="597.27191"
+       y="514.45398"
+       id="text834-9-7"><tspan
+         sodipodi:role="line"
+         id="tspan832-09-1"
+         x="597.27191"
+         y="514.45398">X</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       x="521.60089"
+       y="516.13702"
+       id="text827-15"><tspan
+         sodipodi:role="line"
+         id="tspan825-9"
+         x="521.60089"
+         y="516.13702"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif'">Meet house</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       x="581.99121"
+       y="459.44348"
+       id="text834-6-7"><tspan
+         sodipodi:role="line"
+         id="tspan832-0-7"
+         x="581.99121"
+         y="459.44348">X</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       x="572.21155"
+       y="387.92981"
+       id="text834-6-6"><tspan
+         sodipodi:role="line"
+         id="tspan832-0-73"
+         x="572.21155"
+         y="387.92981">X</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       x="619.88733"
+       y="366.53683"
+       id="text834-6-65"><tspan
+         sodipodi:role="line"
+         id="tspan832-0-6"
+         x="619.88733"
+         y="366.53683">X</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       x="576.44116"
+       y="446.57742"
+       id="text827-6-3"><tspan
+         sodipodi:role="line"
+         id="tspan825-2-9"
+         x="576.44116"
+         y="446.57742"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif'">jailhouse</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       x="544.65729"
+       y="404.40268"
+       id="text827-6-4"><tspan
+         sodipodi:role="line"
+         id="tspan825-2-8"
+         x="544.65729"
+         y="404.40268"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif'">split location</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       x="632.06287"
+       y="364.06165"
+       id="text827-6-1"><tspan
+         sodipodi:role="line"
+         id="tspan825-2-2"
+         x="632.06287"
+         y="364.06165"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif'">sgt of the guard apt</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -723,5 +848,25 @@
          id="tspan2054-4"
          x="165.55931"
          y="319.93222">Ward6</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer14"
+     inkscape:label="streets and roads">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:3,3;stroke-dashoffset:0"
+       inkscape:path-effect="#path-effect2320"
+       inkscape:original-d="m 1003.025,432.54755 c 1.3388,-14.11913 -4.47119,-28.00967 -13.58636,-38.57722 -6.82153,-10.13823 -8.06791,-23.40355 -16.97507,-32.32521 -6.30146,-9.46256 -8.36382,-20.81214 -7.40423,-31.98926 -1.37178,-15.59467 -2.3145,-31.17381 -3.03358,-46.79753 0.0108,-11.62053 4.5533,-24.82972 -3.76877,-34.85925 -3.08404,-8.15871 -1.32258,-18.57198 -6.60055,-26.40394 -8.47678,-4.86595 -17.99349,-9.46006 -16.12635,-21.21321 -6.90086,-13.43021 -22.35562,-43.49816 -22.35562,-43.49816"
+       id="path2318"
+       d="m 1003.025,432.54755 c -4.27611,-12.14164 -9.26946,-26.31979 -14.25173,-37.82584 -4.98228,-11.50606 -10.712,-22.41702 -14.71048,-32.92969 -3.99848,-10.51266 -6.59674,-21.7382 -8.3063,-34.74616 -1.70956,-13.00797 -2.71917,-28.58277 -3.8458,-42.12771 -1.12663,-13.54494 -2.48575,-26.11608 -4.12021,-35.71981 -1.63447,-9.60372 -3.9809,-18.99008 -7.78194,-26.88051 -3.80103,-7.89042 -9.49987,-15.38689 -15.44019,-25.37619 -5.94032,-9.9893 -13.94201,-25.55848 -21.39388,-40.05787"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0.50196081;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 911.95201,136.71325 c 0,0 -50.73191,-300.72412 -50.73191,-300.72412"
+       id="path2324"
+       inkscape:connector-curvature="0"
+       inkscape:path-effect="#path-effect2326"
+       inkscape:original-d="M 911.95201,136.71325 861.2201,-164.01087" />
   </g>
 </svg>
